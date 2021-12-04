@@ -1,6 +1,4 @@
-# Fxcking Angel <img src="https://raw.githubusercontent.com/
-NeavehAnimeLover/
-NeavehAnimeLover/master/pixelwo.gif?raw=true" width="250" align="right"><img>
+# Fxcking Angel <img src="https://raw.githubusercontent.com/NeavehAnimeLover/NeavehAnimeLover/master/pixelwo.gif?raw=true" width="250" align="right"><img>
 
 **Well here are some things about me:**
 
