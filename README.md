@@ -7,4 +7,4 @@
 - I'm working on Anime Co and Mellie and more.
 
 ## Main Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=synthwave)](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=synthwave)](https://github.com/NevaehAnimeLover/MelliePlay)
